@@ -1,0 +1,47 @@
+body{
+	background-color: pink;
+}
+.row{
+	width: 100%;
+	
+}
+.img-thumbnail{
+	width: 100px;
+	height: 100px;
+}
+h1{
+text-align: center;
+color: red;
+}
+img{
+	margin-top: 30px;
+}
+.decrp{
+	background-color: #398271;
+    padding: 40px 40px 40px 80px;
+    margin-top: 80px;
+    border: 2px solid green;
+    border-radius: 163px;
+}
+.decrp h1{
+	color: white;
+	text-decoration: underline;
+}
+figcaption{
+	
+	font-size:15px;
+	color:blue; 
+	font-weight: bold;
+}
+.clr{
+	clear: both;
+}
+.decrp a{
+	color: red;	
+}
+.margint{
+	margin-top: 34px;
+	padding-bottom: 20px;
+	text-align: justify;
+	font-weight: bold;
+}

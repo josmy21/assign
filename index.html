@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MY router</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script src="node_modules\angular/angular.min.js"></script>
+    <script src="node_modules\angular-ui-router\release/angular-ui-router.min.js"></script>
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</head>
+
+<body ng-app="myApp">
+    <div ui-view>
+        <div class="row">
+            <div class="container-fluid">
+                <h1>GAMES</h1>
+                <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'badminton'})">
+                        <img src="assets/images/badminton.jpg" class="img-thumbnail" alt="im1">
+                        <figcaption>badminton</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'basketball'})">
+                        <img src="assets/images/basketball.jpeg" class="img-thumbnail" alt="im2">
+                        <figcaption>basketball</figcaption>
+                    </a>
+                    </div>
+                    
+                    <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'chess'})">
+                        <img src="assets/images/chess.jpg" class="img-thumbnail" alt="im3">
+                        <figcaption>chess</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'cricket'})">
+                        <img src="assets/images/cricket.jpg" class="img-thumbnail" alt="im4">
+                        <figcaption>cricket</figcaption>
+                    </a>
+                    </div>
+                    <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'football'})">
+                        <img src="assets/images/foot.jpg" class="img-thumbnail" alt="im5">
+                        <figcaption>football</figcaption>
+                    </a>
+                
+                    <a ui-sref="display({key:'golf'})">
+                        <img src="assets/images/golf.jpg" class="img-thumbnail" alt="im6">
+                        <figcaption>golf</figcaption>
+                    </a>
+                    </div>
+                <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'hockey'})">
+                        <img src="assets/images/hockey.jpg" class="img-thumbnail" alt="im7">
+                        <figcaption>hockey</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'snooker'})">
+                        <img src="assets/images/snooker.jpg" class="img-thumbnail" alt="im8">
+                        <figcaption>snooker</figcaption>
+                    </a>
+                    </div>
+                    <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'tabletennis'})">
+                        <img src="assets/images/tt.jpg" class="img-thumbnail" alt="im9">
+                        <figcaption>tabletennis</figcaption>
+                    </a>
+                    </div>
+                    <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'volleyball'})">
+                        <img src="assets/images/volleyball.jpg" class="img-thumbnail" alt="im10">
+                        <figcaption>volleyball</figcaption>
+                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

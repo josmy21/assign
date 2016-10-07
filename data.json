@@ -1,0 +1,72 @@
+{
+		 "badminton": 
+            {
+                "url":"assets/images/badminton.jpg",
+        "name": "badminton",
+        "description": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are singles (with one player per side) and doubles (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side's half of the court.Each side may only strike the shuttlecock once before it passes over the net. Play ends once the shuttlecock has struck the floor or if a fault has been called by the umpire, service judge, or (in their absence) the opposing side.[1]The shuttlecock is a feathered or (in informal matches) plastic projectile which flies differently from the balls used in many other sports. In particular, the feathers create much higher drag, causing the shuttlecock to decelerate more rapidly. Shuttlecocks also have a high top speed compared to the balls in other racquet sports."    
+    },
+    "basketball": 
+            {
+                 "url":"assets/images/basketball.jpeg",
+        "name": "basketball",
+        "description": "Basketball is a sport, generally played by two teams of five players on a rectangular court. The objective is to shoot a ball through a hoop 18 inches (46 cm) in diameter and mounted at a height of 10 feet (3.048 m) to backboards at each end of the court.A team can score a field goal by shooting the ball through the basket being defended by the opposition team during regular play. A field goal scores three points for the shooting team if the player shoots from behind the three-point line, and two points if shot from in front of the line. A team can also score via free throws, which are worth one point, after the other team is assessed with certain fouls. The team with the most points at the end of the game wins, but additional time (overtime) is issued when the score is tied at the end of regulation. The ball can be advanced on the court by throwing it to a teammate, or by bouncing it while walking or running (dribbling). It is a violation to lift, or drag, one's pivot foot without dribbling the ball, to carry it, or to hold the ball with both hands then resume dribbling."
+        
+    },
+"chess": 
+            {
+                 "url":"assets/images/chess.jpg",
+        "name": "chess",
+        "description": ".Chess is a two-player strategy board game played on a chessboard, a checkered gameboard with 64 squares arranged in an eight-by-eight grid.[1] Chess is played by millions of people worldwide, both amateurs and professionals.Each player begins the game with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each of the six piece types moves differently. The most powerful piece is the queen and the least powerful piece is the pawn. The objective is to 'checkmate'[2] the opponent's king by placing it under an inescapable threat of capture. To this end, a player's pieces are used to attack and capture the opponent's pieces, while supporting their own. In addition to checkmate, the game can be won by voluntary resignation by the opponent, which typically occurs when too much material is lost, or if checkmate appears unavoidable. A game may also result in a draw in several ways.."
+        
+    },
+    "snooker": 
+            {
+                 "url":"assets/images/snooker.jpg",
+        "name": "snooker",
+        "description": "Snooker (UK /ˈsnuːkər/, US /ˈsnʊkər/)[2][3] is a cue sport played on a table covered with a green cloth or baize, with pockets at each of the four corners and in the middle of each of the long side cushions. A full-size table measures 11 ft 8 1⁄2 in × 5 ft 10 in (3569 mm x 1778 mm), commonly referred to as 12 × 6 ft.The game is played using a cue and 22 snooker balls: one white cue ball, 15 red balls worth one point each, and six balls of different colours: yellow (two points), green (three), brown (four), blue (five), pink (six) and black (seven).[4] The red balls are initially placed in a triangular formation, and the other coloured balls on marked positions on the table known as spots. Players execute shots by striking the cue ball with the cue, causing the cue ball to hit a red or coloured ball. Points are scored by sinking the red and coloured balls (knocking them into the pockets, called potting) in the correct sequence. A player receives additional points if the opponent commits a foul. A player (or team) wins a frame (individual game) of snooker by scoring more points than the opponent(s). A player wins a match when a predetermined number of frames have been won."
+        
+    },
+    "cricket": 
+            {
+                 "url":"assets/images/cricket.jpg",
+        "name": "cricket",
+        "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end. One team, designated the batting team, attempts to score as many runs as possible, whilst their opponents field. Each phase of play is called an innings. After either ten batsmen have been dismissed or a set number of overs have been completed, the innings ends and the two teams then swap roles. The winning team is the one that scores the most runs, including any extras gained, during their one or two innings.At the start of each game, two batsmen and eleven fielders enter the field of play. The play begins when a designated member of the fielding team, known as the bowler, delivers the ball from one end of the pitch to the other, towards a set of wooden stumps, in front of which stands one of the batsmen, known as the striker. The striker's role is to prevent the ball from hitting the stumps by use of his bat, and simultaneously to strike it well enough to score runs. The other batsman, known as the non-striker, waits at the opposite end of the pitch near the bowler. The bowler's objectives are to prevent the scoring of runs and to dismiss the batsman. A dismissed batsman must leave the field, and a teammate replaces him at the crease."
+        
+    },
+    "golf": 
+            {
+                 "url":"assets/images/golf.jpg",
+        "name": "golf",
+        "description": "Golf is a club and ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.Golf, unlike most ball games, does not require a standardized playing area. The game is played on a course with an arranged progression of either nine or 18 holes. Each hole on the course must contain a tee box to start from, and a putting green containing the actual hole or cup. There are other standard forms of terrain in between, such as the fairway, rough, and hazards, but each hole on a course is unique in its specific layout and arrangement.Golf is played for the lowest number of strokes by an individual, known as stroke play, or the lowest score on the most individual holes in a complete round by an individual or team, known as match play. Stroke play is the most commonly seen format at all levels."
+        
+    },
+    "football": 
+            {
+                 "url":"assets/images/foot.jpg",
+        "name": "football",
+        "description": "Football is a family of team sports that involve, to varying degrees, kicking a bal(known as soccer in some countries); gridiron football (specifically American football or Canadian football); Australian rules football; rugby football (either rugby league or rugby union); and Gaelic football. These different variations of football are known as football codes.Various forms of football can be identified in history, often as popular peasant games. Contemporary codes of football can be traced back to the codification of these games at English public schools during the nineteenth century.[3][4] The expanse of the British Empire allowed these rules of football to spread to areas of British influence outside of the directly controlled Empire.[5] By the end of the nineteenth century, distinct regional codes were already developing: Gaelic football, for example, deliberately incorporated the rules of local traditional football games in order to maintain their heritage.[6] In 1888, The Football League was founded in England, becoming the first of many professional football competitions. During the twentieth century, several of the various kinds of football grew to become some of the most popular team sports in the world"
+        
+    },
+    "tabletennis": 
+            {
+                 "url":"assets/images/tt.jpg",
+        "name": "tabletennis",
+        "description": "Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using a small paddle. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions. Spinning the ball alters its trajectory and limits an opponent's options, giving the hitter a great advantage.Table tennis is governed by the worldwide organization International Table Tennis Federation (ITTF), founded in 1926. ITTF currently includes 220 member associations.[1] The table tennis official rules are specified in the ITTF handbook.[2] Table tennis has been an Olympic sport since 1988,[3] with several event categories. From 1988 until 2004, these were men's singles, women's singles, men's doubles and women's doubles. Since 2008, a team event has been played instead of the doubles."
+        
+    },
+    "volleyball": 
+            {
+                 "url":"assets/images/volleyball.jpg",
+        "name": "volleyball",
+        "description": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules.[1] It has been a part of the official program of the Summer Olympic Games since 1964.The complete rules are extensive. But simply, play proceeds as follows: a player on one of the teams begins a 'rally' by serving the ball (tossing or releasing it and then hitting it with a hand or arm), from behind the back boundary line of the court, over the net, and into the receiving team's court. The receiving team must not let the ball be grounded within their court. The team may touch the ball up to 3 times but individual players may not touch the ball twice consecutively. Typically, the first two touches are used to set up for an attack, an attempt to direct the ball back over the net in such a way that the serving team is unable to prevent it from being grounded in their court.The rally continues, with each team allowed as many as three consecutive touches, until either (1): a team makes a kill, grounding the ball on the opponent's court and winning the rally; or (2): a team commits a fault and loses the rally. The team that wins the rally is awarded a point, and serves the ball to start the next rally. A few of the most common faults include:"
+        
+    },
+    "hockey": 
+            {
+                 "url":"assets/images/hockey.jpg",
+        "name": "hockey",
+        "description": "The first recorded use of the word hockey is in the 1773 book Juvenile Sports and Pastimes, to Which Are Prefixed, Memoirs of the Author: Including a New Mode of Infant Education by Richard Johnson (Pseud. Master Michel Angelo), whose chapter XI was titled New Improvements on the Game of Hockey.[2] The belief that hockey was mentioned in a 1363 proclamation by King Edward III of England is based on modern translations of the proclamation, which was originally in Latin and explicitly forbade the games Pilam Manualem, Pedivam, & Bacularem: & ad Canibucam & Gallorum Pugnam. The English historian and biographer John Strype did not use the word hockey when he translated the proclamation in 1720.The word hockey itself is of unknown origin. One supposition is that it is a derivative of hoquet, a Middle French word for a shepherd's stave.[3] The curved, or hooked ends of the sticks used for hockey would indeed have resembled these staves. Another supposition derives from the known use of cork bungs, (stoppers) in place of wooden balls to play the game. The stoppers came from barrels containing hock ale, also called hocky."
+        
+    }
+
+}
